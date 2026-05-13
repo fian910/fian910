@@ -1,5 +1,4 @@
 ## Hello I'm Muhammad Ariffian Candra Pramana 👋😁
-
 ![Candra](assets/github-header-banner.png)
 
 <!--
@@ -19,5 +18,9 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com/) & [**Javascript**](https://www.w3schools.com/js/)
+- 👨‍💻 I’m currently study in **University of Trunojoyo Madura**
+
+
+
 
 ![CicakPlenger](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NuZ29ob2RtMDJkbGNqcmVoM3R4YjZlYjJ0OWo2MGtlbXFhbmtjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif)
