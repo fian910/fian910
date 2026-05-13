@@ -1,4 +1,4 @@
-### Hello I'm Muhammad Ariffian Candra Pramana 👋😁
+## Hello I'm Muhammad Ariffian Candra Pramana 👋😁
 
 ![Candra](assets/github-header-banner.png)
 
